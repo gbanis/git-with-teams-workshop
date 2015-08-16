@@ -5,7 +5,7 @@ This document was originally created for the General Assembly course [Intro to A
 ## Table of Contents
 
 - [Setting up Git with Github](#setting-up-git-with-github)
-- [Starting a project](#starting-a-project)
+- [Starting a team project](#starting-a-team-project)
 
 ## Setting Up Git with Github
 
